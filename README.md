@@ -1,0 +1,1 @@
+This is my completed 'Recipe' project from The Odin Project, and is also my first website ever! I wanted to share how to make some of my favorite foods growing up. Though I have finished the assignment in The Odin Project, I want to fine tune this website with CSS and Javascript as I learn more about these two languages to make the website more interactive and user friendly.
